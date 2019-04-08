@@ -5,9 +5,6 @@ Fine-tuned pretrained ResNet50 to classify images of monkeys belonging to 10 dif
 
 Data can be found here: https://www.kaggle.com/slothkong/10-monkey-species
 
-Data is organized in folders : 1) train
-                                  - 10 folders containing images of each class
-                               2) validation
-                                  - 10 folders containing images of each class
+Data is organized in folders 'train' and 'validation', each containing a folder with images of each class.  
                                   
 Created a test folder with a few images of monkeys chosen randomly either from the dataset or from the web. 
